@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f832f668f34b20aa","type":"text","text":"What is the Purpose? \nThis Then That, \nBut This Then That","x":-700,"y":-860,"width":240,"height":120},
+		{"id":"bd024a80042d7847","type":"text","text":"In search of Creativity/Expression","x":-1100,"y":-680,"width":340,"height":60},
+		{"id":"fa56377a090fa0a0","type":"text","text":"[FRAMES OF SUNRISE | SONY FX6 | HELIOS 44-2 - YouTube](https://youtu.be/e6G0_BeFrE8)\n","x":-300,"y":-800,"width":530,"height":50},
+		{"id":"56788d8eb5bf9d51","type":"text","text":"Breaking that invisible wall to achieve what’s already there, sometimes it’s not the lack of creativity but the constant inaction that leaves you stumped and lost. ","x":-775,"y":-540,"width":740,"height":120}
+	],
+	"edges":[]
+}
