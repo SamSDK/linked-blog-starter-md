@@ -21,6 +21,7 @@ kanban-plugin: board
 	Lucifer floating in a pool of lava pondering #scene #painting
 - [ ] Knight armor photography![[Pasted image 20241231173710.png]]
 - [ ] ![[Pasted image 20250108173042.png]]![[Pasted image 20250108173349.png]]White flash overexposed type of pic or paitning
+- [ ] ![[Pasted image 20250404122852.png]]
 
 
 
