@@ -33,7 +33,6 @@ kanban-plugin: board
 - [ ] running away after sending that risky text #memez
 - [ ] beautiful morning [song] #memez ![[Pasted image 20250320005047.png]]
 - [ ] 
-- [ ] when you have to become the motivational speaker all of a sudden to get your mates to go out #memez
 - [ ] the man without principles, who agrees with whatever a pretty girl says #memez
 - [ ] decoding the messages girls send, what did that emoji mean? #memez
 - [ ] why are you always on the phone? cut to always being on fb marketplace #memez
